@@ -6,6 +6,10 @@
 <a href="mailto:vsv.vasyliev@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<a href="https://t.me/GradientAspen">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+       
+
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>       -->
 
