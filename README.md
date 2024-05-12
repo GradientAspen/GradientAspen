@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi, my name is Serhii👋
+<p align="justify">
+       Dedicated and skilled Java Developer with a solid background in telecommunications and internet technologies. Proficient in Java programming, including Java Core, Collections, and Object- Oriented Programming principles. Experienced in utilizing Spring framework components to develop robust and scalable applications. Skilled in database management using Hibernate and JDBC with MySQL databases. Familiar with testing frameworks like JUnit and build automation tools such as Maven. Experienced in Docker for containerization and Git for version control. Demonstrates strong analytical aptitude, problem-solving skills, and proficiency in project management. Excels in problem- solving and project coordination, with a strong commitment to delivering high-quality software solutions. Passionate about leveraging emerging technologies to drive innovation and achieve business objectives.
+</p>
 <p align='center'>
        <a href="mailto:vsv.vasyliev@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
