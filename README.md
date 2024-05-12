@@ -20,6 +20,20 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GradientAspen&layout=compact"/></a>
 </p>
 
+<p>
+       <p><strong>Skils</strong></p>
+<ul>
+       <li>Java: Java 8+,, Collections, OOP, SOLID</li>
+       <li>DB: Hibernate, JDBC, MySQL, Liquibase</li>
+       <li>Spring: Spring Core, Spring Web, Spring Security, Spring Boot, Spring Data</li>
+       <li>Web Development: Servlet, Tomcat, HTML, CSS, XML, REST API, AWS</li>
+       <li>Tools: JUnit, Maven, Docker, Lombok </li>
+       <li>Version Control Tools: Git</li>
+       <li>IDE: IntelliJ IDEA</li>
+</ul>
+
+</p>
+
 <!--
 **GradientAspen/GradientAspen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
