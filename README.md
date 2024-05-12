@@ -34,6 +34,13 @@
 
 </p>
 
+<p><strong>Language</strong></p>
+<ul>
+       <li>English - B2 </li>
+       <li>German - B1</li>
+       <li>Ukrainian - С2</li>       
+</ul>
+
 <!--
 **GradientAspen/GradientAspen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
