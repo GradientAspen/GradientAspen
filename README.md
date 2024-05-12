@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="{https://img.shields.io/badge/https://www.linkedin.com/in/serhii-vasyliev-811b95219/?style=for-the-badge&logo=linkedin&logoColor=white}" />
+![image]({https://img.shields.io/badge/https://www.linkedin.com/in/serhii-vasyliev-811b95219/?style=for-the-badge&logo=linkedin&logoColor=white})
 
 
 
