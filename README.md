@@ -24,6 +24,8 @@
        <p><strong>Skils</strong></p>
 <ul>
        <li>Java: Java 8+,, Collections, OOP, SOLID</li>
+       <li>TypeScript</li>
+       <li>Message broker - Kafka</li>
        <li>DB: Hibernate, JDBC, MySQL, Liquibase</li>
        <li>Spring: Spring Core, Spring Web, Spring Security, Spring Boot, Spring Data</li>
        <li>Web Development: Servlet, Tomcat, HTML, CSS, XML, REST API, AWS</li>
